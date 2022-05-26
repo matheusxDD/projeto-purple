@@ -1,2 +1,2 @@
 # projeto-purple
-Página feita com HTML e CSS para consolidar conhecimentos.
+Página responsiva feita com HTML e CSS com intuito de consolidar os conhecimentos no desenvolvimento web.
